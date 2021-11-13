@@ -9,7 +9,7 @@ GPU: nvidia quadro K2200<br>
 USB card: AXAGON PCEU-430VL<br>
 
 ## Prerequisities
-Windows 10 virtual machine with GPU passthrough through qemu, there are great guides on the internet eg.:https://wiki.archlinux.org/title/PCI_passthrough_via_OVMF<br>
+Windows 10 virtual machine with GPU passthrough through qemu, there are great guides on the internet eg.:https://wiki.archlinux.org/title/PCI_passthrough_via_OVMF or use my personal how to: https://github.com/Angoosh/KVM-stuff/blob/master/KVM%20setup.txt<br>
 VM should have at least 8GB of ram allocated, preferably 16GB<br>
 VR headset<br>
 Steam account<br>
